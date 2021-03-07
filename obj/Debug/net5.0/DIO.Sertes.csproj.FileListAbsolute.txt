@@ -1,0 +1,16 @@
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.csprojAssemblyReference.cache
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.AssemblyInfoInputs.cache
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.AssemblyInfo.cs
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.csproj.CoreCompileInputs.cache
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes.deps.json
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes.runtimeconfig.json
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes.runtimeconfig.dev.json
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes.dll
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/ref/DIO.Sertes.dll
+/home/vinicius/Documentos/DIO.Sertes/bin/Debug/net5.0/DIO.Sertes.pdb
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.dll
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/ref/DIO.Sertes.dll
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.pdb
+/home/vinicius/Documentos/DIO.Sertes/obj/Debug/net5.0/DIO.Sertes.genruntimeconfig.cache
